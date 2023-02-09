@@ -1,5 +1,7 @@
 # GenesisTemplates
 
+Useful [Genesis](https://github.com/yonaskolb/Genesis) templates for generating boilerplate codes.
+
 ## VIPER
 - https://github.com/0x0c/GenesisVIPERTemplate
 
